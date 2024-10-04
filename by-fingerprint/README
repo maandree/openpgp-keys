@@ -1,2 +1,2 @@
-The last 8 hexdigis in the fingerprint of a key is often used as an ID,
+The last 8 or 16 hexdigits in the fingerprint of a key is often used as an ID,
 for example 678A6A76 is short for 569BD1696917FE319D2A4722BF2236A2678A6A76.
